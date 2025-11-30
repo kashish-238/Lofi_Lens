@@ -1,12 +1,12 @@
 <div align="center">
-<span style="color:#d08770">lofi lens</span> — aesthetic photobooth
+<b>lofi lens</b> — aesthetic photobooth
 
 capture the vibe, not just the photo
 
-<span style="color:#b48ead">soft grunge</span> • <span style="color:#a3be8c">dreamy haze</span> • digital polaroid • tumblr mood • lofi nights
+<b>soft grunge<b> • <b>dreamy haze<b> • <b>digital polaroid</b> • <b>tumblr mood</b> • <b>lofi nights</b>
 
 <br> </div>
-✦ introduction
+✦ <b>introduction</b>
 
 Lofi Lens is a soft-grunge, tumblr-inspired photobooth built with pure HTML, CSS, and JavaScript.
 It blends nostalgic film textures with minimal UI, dreamy filters, and gentle lofi audio.
@@ -14,11 +14,11 @@ It blends nostalgic film textures with minimal UI, dreamy filters, and gentle lo
 A tiny digital café where you take photos that feel like memories.
 
 <br>
-✦ features
+✦ <b>features</b>
 
 live camera capture with countdown + flash
 
-dreamy film filters (<span style="color:#d08770">rose blush</span>, <span style="color:#ebcb8b">honey warm</span>, faded film, matte vintage)
+dreamy film filters (<b>rose blush</b>, <b>honey warm</b>, faded film, matte vintage)
 
 gallery with masonry layout (view / download / delete)
 
