@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lofi Lens | Tumblr Aesthetic Photobooth</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Space+Mono&family=Nothing+You+Could+Do&display=swap" rel="stylesheet">
+
+  <!-- External Styles -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- ✦ Background Music -->
+  <audio id="lofi-audio" loop>
+    <source src="tumblr-girl.mp3" type="audio/mpeg" />
+    Your browser does not support the audio element.
+  </audio>
+
+  <!-- ✦ Navbar -->
+<nav class="navbar">
+  <div class="logo">Lofi Lens</div>
+  <div class="nav-right">
+    <div class="nav-links">
+      <a href="#">home</a>
+      <a href="#">filters</a>
+      <a href="#">about</a>
+    </div>
+    <!-- ✦ Theme Toggle Switch -->
+    <label class="switch">
+      <input type="checkbox" id="theme-toggle">
+      <span class="slider"></span>
+      <span class="toggle-icon">🌙</span>
+    </label>
+  </div>
+</nav>
+
+
+
+  <!-- ✦ Permanent Quote Bar -->
+  <div class="permanent-quote">
+    <p>“coffee, 3am, and a playlist that understands”</p>
+  </div>
+
+  <!-- ✦ Main Photobooth Section -->
+  <main class="main-section">
+
+    <!-- ✦ Photobooth -->
+    <section class="booth">
+
+      <!-- ✦ Toolbar -->
+      <div class="toolbar">
+        <select id="delay">
+          <option value="0">No Delay</option>
+          <option value="3">3s Delay</option>
+          <option value="5">5s Delay</option>
+        </select>
+
+        <select id="photo-count">
+          <option value="2">2 Photos</option>
+          <option value="3">3 Photos</option>
+          <option value="4">4 Photos</option>
+          <option value="6">6 Photos</option>
+        </select>
+
+        <button id="upload-btn" class="ghost-btn">Upload Photo</button>
+        <button id="audio-play" class="ghost-btn">▶️ Play Music</button>
+        <button id="audio-toggle" class="ghost-btn">🔈 Mute</button>
+      </div>
+
+      <!-- ✦ Camera -->
+      <div class="camera-container">
+        <video id="video" autoplay playsinline></video>
+        <div id="flash"></div>
+        <div id="countdown"></div>
+      </div>
+
+      <!-- ✦ Filters -->
+      <div class="filter-bar">
+        <button class="filter-btn" data-filter="none">Normal</button>
+        <button class="filter-btn" data-filter="rose-blush">Rose Blush</button>
+        <button class="filter-btn" data-filter="honey-warm">Honey Warm</button>
+        <button class="filter-btn" data-filter="faded-film">Faded Film</button>
+        <button class="filter-btn" data-filter="matte-vintage">Matte Vintage</button>
+        <button class="filter-btn" data-filter="cream-soft">Cream Soft</button>
+        <button class="filter-btn" data-filter="mocha-glow">Mocha Glow</button>
+        <button class="filter-btn" data-filter="bw-classic">B/W Classic</button>
+        <button class="filter-btn" data-filter="retro-glitch">Retro Glitch</button>
+        <button class="filter-btn" data-filter="flip-phone">Flip Phone Cam</button>
+      </div>
+
+      <!-- ✦ Capture + Download Controls -->
+      <div class="capture-bar">
+        <button id="capture-btn" class="capture-btn">📸 Capture</button>
+        <button id="download-btn" class="ghost-btn">⬇️ Download</button>
+
+        <select id="download-style">
+          <option value="none">None</option>
+          <option value="polaroid">Polaroid</option>
+          <option value="film">Film</option>
+        </select>
+      </div>
+
+      <!-- ✦ Gallery -->
+      <div class="gallery">
+        <h3>Your Captures</h3>
+        <div id="gallery"></div>
+      </div>
+
+    </section>
+  </main>
+
+  <!-- ✦ Footer -->
+  <footer class="footer">
+    <p>made with ❤️ · <span class="brand">© Kashish Dhanani</span></p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="script.js"></script>
+
+</body>
+</html>
