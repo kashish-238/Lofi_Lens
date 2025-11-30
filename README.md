@@ -1,46 +1,94 @@
-Lofi Lens — Aesthetic Photobooth
-“Capture the vibe, not just the photo.”
+#LOFI LENS — aesthetic photobooth
 
-Lofi Lens is a web‑based photobooth inspired by Polaroid strips, Tumblr aesthetics, and cozy café vibes. Built with HTML, CSS, and vanilla JavaScript, it lets you snap webcam shots, apply dreamy filters, and export them as Polaroid or film‑style contact sheets — all while listening to lofi beats.
+capture the vibe, not just the photo
 
-✨ Features
-🎥 Live Camera Capture — Countdown + flash effects for authentic photobooth feel
+soft grunge • dreamy haze • digital polaroid • tumblr mood • lofi nights
 
-🎨 Dreamy Filters — Rose Blush, Honey Warm, Faded Film, Matte Vintage, and more
+✦ introduction
 
-🖼️ Gallery Masonry Layout — Upload, view, and delete photos in a stylish grid
+Lofi Lens is a soft-grunge, tumblr-era inspired photobooth built with pure HTML, CSS & vanilla JavaScript.
+It blends nostalgic film textures with minimal UI, dreamy filters, and a gentle lofi audio experience.
 
-📑 Export Options — Save as Polaroid frames or Jennie‑style film strips
+A tiny digital café where you take photos that feel like memories.
 
-🎶 Lofi Audio Player — Play/pause, mute toggle, and animated visualizer
+✦ features
 
-🌙☀️ Light/Dark Mode — Moody dark mode + cozy beige light mode
+live camera capture with countdown + flash
 
-📱 Responsive Design — Works seamlessly across desktop and mobile
+dreamy film filters (rose blush, honey warm, faded film, matte vintage, etc.)
 
-🖌️ Screenshots & Demo
-(Add screenshots or GIFs here once you capture them — show dark mode vs beige light mode, gallery view, and Polaroid export.)
+gallery with masonry layout (view, download, delete)
 
-🚀 Getting Started
-Clone the repo
-bash
+export as polaroid frames or film strips
+
+built-in lofi audio player
+
+light mode + dark tumblr mode
+
+mobile responsive
+
+✦ screenshots
+
+add your own screenshots or gifs below
+
+[ dark mode ui ]
+[ beige soft-light mode ]
+[ polaroid export ]
+[ gallery view ]
+
+✦ demo
+
+coming soon
+(host on GitHub Pages or Vercel)
+
+✦ getting started
+clone
 git clone https://github.com/yourusername/lofi-lens.git
 cd lofi-lens
-Run locally
-Simply open index.html in your browser. No build tools required — it’s pure HTML/CSS/JS.
 
-🛠️ Tech Stack
-HTML5 — structure
+run locally
 
-CSS3 — gradients, animations, responsive design
+just open
 
-JavaScript (ES6) — camera API, filters, gallery, audio, theme toggle
+index.html
 
-🌟 Inspiration
-Lofi Lens is designed to feel like a digital photobooth café — blending nostalgia (Polaroid frames, film strips) with modern web aesthetics (animated gradients, particles, lofi music).
 
-🤝 Contributing
-Pull requests are welcome! If you’d like to add new filters, export styles, or UI tweaks, fork the repo and submit your ideas.
+in your browser.
+no build steps.
 
-📜 License
-MIT License — feel free to remix, share, and vibe.
+✦ project structure
+lofi-lens/
+│── index.html
+│── style.css
+│── script.js
+│── /assets
+│── /exports
+└── README.md
+
+✦ tech stack
+
+html5
+css3
+javascript (es6)
+
+✦ inspiration
+
+soft tumblr glow
+film dust overlays
+polaroid strips & jennie-style film scans
+cozy café playlists
+late-night lofi aesthetics
+
+✦ contributing
+
+feel free to open a pull request.
+new filters, export types, ui enhancements — always welcome.
+
+✦ license
+
+MIT License — free to use, modify, remix, and vibe.
+
+✦ closing note
+this isn’t just a photobooth.  
+it’s a mood.  
+a tiny, quiet corner of the internet.  
