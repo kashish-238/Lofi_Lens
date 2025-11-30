@@ -1,46 +1,52 @@
-#LOFI LENS — aesthetic photobooth
+<div align="center">
+lofi lens — aesthetic photobooth
 
 capture the vibe, not just the photo
 
 soft grunge • dreamy haze • digital polaroid • tumblr mood • lofi nights
 
+<br> </div>
 ✦ introduction
 
-Lofi Lens is a soft-grunge, tumblr-era inspired photobooth built with pure HTML, CSS & vanilla JavaScript.
-It blends nostalgic film textures with minimal UI, dreamy filters, and a gentle lofi audio experience.
+Lofi Lens is a soft-grunge, tumblr-inspired photobooth built with pure HTML, CSS, and vanilla JavaScript.
+It blends nostalgic film textures with minimal UI, dreamy filters, and gentle lofi audio.
 
 A tiny digital café where you take photos that feel like memories.
 
+<br>
 ✦ features
 
 live camera capture with countdown + flash
 
 dreamy film filters (rose blush, honey warm, faded film, matte vintage, etc.)
 
-gallery with masonry layout (view, download, delete)
+gallery with masonry layout (view / download / delete)
 
 export as polaroid frames or film strips
 
 built-in lofi audio player
 
-light mode + dark tumblr mode
+dark tumblr mode + beige light mode
 
 mobile responsive
 
+<br>
 ✦ screenshots
 
-add your own screenshots or gifs below
+add your screenshots or gifs here
 
-[ dark mode ui ]
-[ beige soft-light mode ]
-[ polaroid export ]
-[ gallery view ]
+[ dark mode ui ]  
+[ light mode ]  
+[ gallery view ]  
+[ polaroid export ]  
 
+<br>
 ✦ demo
 
 coming soon
-(host on GitHub Pages or Vercel)
+(deploy via GitHub Pages or Vercel)
 
+<br>
 ✦ getting started
 clone
 git clone https://github.com/yourusername/lofi-lens.git
@@ -48,14 +54,11 @@ cd lofi-lens
 
 run locally
 
-just open
+just open:
 
 index.html
 
-
-in your browser.
-no build steps.
-
+<br>
 ✦ project structure
 lofi-lens/
 │── index.html
@@ -65,30 +68,38 @@ lofi-lens/
 │── /exports
 └── README.md
 
+<br>
 ✦ tech stack
 
 html5
+
 css3
+
 javascript (es6)
 
+<br>
 ✦ inspiration
 
-soft tumblr glow
-film dust overlays
-polaroid strips & jennie-style film scans
-cozy café playlists
-late-night lofi aesthetics
+film dust
+soft grunge
+polaroid frames
+café warmth
+late-night lofi playlists
 
+<br>
 ✦ contributing
 
-feel free to open a pull request.
-new filters, export types, ui enhancements — always welcome.
+pull requests welcome — feel free to add filters, export styles, ui tweaks, or improvements.
 
+<br>
 ✦ license
 
-MIT License — free to use, modify, remix, and vibe.
+MIT license — free to use, remix, and vibe.
 
-✦ closing note
-this isn’t just a photobooth.  
-it’s a mood.  
-a tiny, quiet corner of the internet.  
+<br>
+<div align="center">
+this isn’t just a photobooth  
+it’s a mood  
+a soft corner of the internet
+
+</div>
