@@ -1,14 +1,14 @@
 <div align="center">
-lofi lens — aesthetic photobooth
+<span style="color:#d08770">lofi lens</span> — aesthetic photobooth
 
 capture the vibe, not just the photo
 
-soft grunge • dreamy haze • digital polaroid • tumblr mood • lofi nights
+<span style="color:#b48ead">soft grunge</span> • <span style="color:#a3be8c">dreamy haze</span> • digital polaroid • tumblr mood • lofi nights
 
 <br> </div>
 ✦ introduction
 
-Lofi Lens is a soft-grunge, tumblr-inspired photobooth built with pure HTML, CSS, and vanilla JavaScript.
+Lofi Lens is a soft-grunge, tumblr-inspired photobooth built with pure HTML, CSS, and JavaScript.
 It blends nostalgic film textures with minimal UI, dreamy filters, and gentle lofi audio.
 
 A tiny digital café where you take photos that feel like memories.
@@ -18,7 +18,7 @@ A tiny digital café where you take photos that feel like memories.
 
 live camera capture with countdown + flash
 
-dreamy film filters (rose blush, honey warm, faded film, matte vintage, etc.)
+dreamy film filters (<span style="color:#d08770">rose blush</span>, <span style="color:#ebcb8b">honey warm</span>, faded film, matte vintage)
 
 gallery with masonry layout (view / download / delete)
 
@@ -28,7 +28,7 @@ built-in lofi audio player
 
 dark tumblr mode + beige light mode
 
-mobile responsive
+fully responsive
 
 <br>
 ✦ screenshots
@@ -43,7 +43,7 @@ add your screenshots or gifs here
 <br>
 ✦ demo
 
-coming soon
+<span style="color:#b48ead">coming soon</span>
 (deploy via GitHub Pages or Vercel)
 
 <br>
@@ -80,8 +80,8 @@ javascript (es6)
 <br>
 ✦ inspiration
 
-film dust
-soft grunge
+<span style="color:#d08770">film dust</span>
+<span style="color:#b48ead">soft grunge</span>
 polaroid frames
 café warmth
 late-night lofi playlists
@@ -89,12 +89,13 @@ late-night lofi playlists
 <br>
 ✦ contributing
 
-pull requests welcome — feel free to add filters, export styles, ui tweaks, or improvements.
+pull requests welcome —
+add filters, export styles, ui tweaks, or improvements.
 
 <br>
 ✦ license
 
-MIT license — free to use, remix, and vibe.
+MIT License — free to use, remix, and vibe.
 
 <br>
 <div align="center">
